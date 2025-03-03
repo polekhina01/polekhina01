@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ksenia! 👋
+<h1 align="center">Hi there, I'm Ksenia! 👋 </h1>
 I'm studying for a master's degree to become an AI specialist in information security. I show here my educational projects related to ML and AI!
 
 👩🏻‍🎓 Bachelor's degree: BMSTU Mathematics and computer science, June '23 
