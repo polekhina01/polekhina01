@@ -1,0 +1,1 @@
+VK x BMSTU projects
